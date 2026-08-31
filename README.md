@@ -93,14 +93,14 @@ const thiago = {
 <div align="center">
 
   <a href="https://github.com/Thiagox47">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiagox47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagox47&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiagox47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagox47&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/Thiagox47">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagox47&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagox47&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 
 </div>
