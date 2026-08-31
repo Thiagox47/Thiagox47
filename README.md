@@ -88,33 +88,22 @@ const thiago = {
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">
 
+  <!-- Streak Stats (100% funcional) -->
   <a href="https://github.com/Thiagox47">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiagox47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagox47&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+    <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagox47&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
 
   <br/><br/>
 
+  <!-- Gráfico de Atividade Dinâmico -->
   <a href="https://github.com/Thiagox47">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagox47&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thiagox47&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
   </a>
 
-</div>
-
----
-
-### 🐍 Histórico de Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiagox47/Thiagox47/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiagox47/Thiagox47/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Thiagox47/Thiagox47/output/github-contribution-grid-snake-dark.svg">
-  </picture>
 </div>
 
 ---
